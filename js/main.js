@@ -6,7 +6,6 @@ const products = [
     {id: 3, title: 'Keyboard', price: 200},
     {id: 4, title: 'Gamepad', price: 50},
 ];
-console.log(products.id);
 //Функция для формирования верстки каждого товара
 //Добавить в выводе изображение
 const renderProduct = (product) => {
